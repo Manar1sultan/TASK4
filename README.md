@@ -1,6 +1,12 @@
 # TASK4
 
-The fourth task is to create a chatbot using IBM Watson and integrate it with a website.
+The fourth task is: 
+
+1- Use the Python language in IBM Watson to convert speech to text and text to speech.
+
+2- Save the resulting text from (Speech to Text Converter) as a txt file.
+
+3- Save the resulting speech (text to speech) as an mp3 file.
 
 Files:
 1. Result.txt
